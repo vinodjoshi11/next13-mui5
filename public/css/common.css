@@ -1,0 +1,24 @@
+.StripeElement,
+.StripeElementIdeal,
+.StripeElementP24,
+.StripeElementEPS,
+.StripeElementFpx {
+  display: block;
+  margin: 10px 0 20px 0;
+  max-width: 500px;
+  padding: 15px 15px;
+  border: 1px solid #DADADA;
+  border-radius: 6px;
+}
+
+.StripeElement.loading {
+  height: 41.6px;
+  opacity: 0.6;
+}
+
+.StripeElementIdeal,
+.StripeElementP24,
+.StripeElementEPS,
+.StripeElementFpx {
+  padding: 0;
+}

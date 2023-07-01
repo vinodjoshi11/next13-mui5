@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>06C11B8B-85A4-4164-82EF-9D16D259662E</title>
+    <defs>
+        <polygon id="path-1" points="34.0222222 36.5777778 47.8 23.8 34.0222222 11.0222222"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24_Logout-Confirmation" transform="translate(-655.000000, -283.000000)">
+            <g id="Group-57" transform="translate(480.000000, 233.000000)">
+                <g id="Group-87" transform="translate(175.000000, 50.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                    <g id="Group-66">
+                        <g id="Path">
+                            <use fill="#D8D8D8" xlink:href="#path-1"></use>
+                            <use fill="#F5F5F5" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M26.1333333,0 L26.1333333,1.6 L5.91111111,1.6 C3.60017845,1.6 1.71392822,3.41828162 1.6049714,5.70223389 L1.6,5.91111111 L1.6,41.6888889 C1.6,43.9998215 3.41828162,45.8860718 5.70223389,45.9950286 L5.91111111,46 L26.1333333,46 L26.1333333,47.6 L5.91111111,47.6 C2.72069042,47.6 0.120614486,45.0724336 0.00407716136,41.9104947 L0,41.6888889 L0,5.91111111 C0,2.72069042 2.52756637,0.120614486 5.68950527,0.00407716136 L5.91111111,0 L26.1333333,0 Z M34.0222222,11.0222222 L47.8,23.8 L34.0222222,36.5777778 L34.022,24.599 L13.8690708,24.6 L13.8690708,23 L34.022,23 L34.0222222,11.0222222 Z M35.622,14.688 L35.622,32.911 L45.447,23.8 L35.622,14.688 Z" id="Combined-Shape" fill="#9E9E9E" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,115 @@
+{
+  "plugins": [
+    "react",
+    "@next/next"
+  ],
+  "extends": [ 
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@next/next/recommended"
+  ],
+  "env": {
+    "browser": true,
+    "es2020": true,
+    "node": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "parserOptions": { 
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  },
+  "rules": {
+    "arrow-parens": [
+      "error",
+      "always"
+    ],
+    "camelcase": "off",
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "never",
+        "objects": "never",
+        "imports": "never",
+        "exports": "never",
+        "functions": "never"
+      }
+    ],
+    "consistent-return": "off",
+    "eqeqeq": "error",
+    "func-names": "off",
+    "function-paren-newline": [
+      "error",
+      "multiline-arguments"
+    ],
+    "guard-for-in": "error",
+    "import/newline-after-import": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/prefer-default-export": "off",
+    "indent": [
+      "error",
+      2,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "jsx-quotes": ["error", "prefer-double"],
+    "linebreak-style": 0,
+    "max-len": [
+      "error",
+      {
+        "code": 240
+      }
+    ],
+    "no-alert": "error",
+    "no-confusing-arrow": 0,
+    "no-console": [
+      "error",
+      {
+        "allow": ["error"]
+      }
+    ],
+    "no-const-assign": "error",
+    "no-debugger": "error",
+    "no-dupe-keys": "error",
+    "no-inner-declarations": "error",
+    "no-irregular-whitespace": "error",
+    "no-multi-str": 0,
+    "no-param-reassign": 0,
+    "no-throw-literal": 0,
+    "no-underscore-dangle": "off",
+    "no-unreachable": "error",
+    "no-unused-vars": [
+      "off",
+      {
+        "argsIgnorePattern": "next"
+      }
+    ],
+    "no-use-before-define": [
+      "error",
+      {
+        "variables": false
+      }
+    ],
+    "no-useless-escape":"off",
+    "no-var": "error",
+    "quotes": [
+      "error",
+      "double"
+    ],
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-uses-react": "off",
+    "react/display-name": "off",
+    "react/prop-types": "off",
+    "require-await": "off",
+    "semi": [
+      "error",
+      "always"
+    ]
+  }
+  // "parser": "babel-eslint"
+}

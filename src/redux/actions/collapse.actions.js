@@ -1,0 +1,4 @@
+export const COLLAPSE_UPDATE = "COLLAPSE_UPDATE";
+ 
+
+
